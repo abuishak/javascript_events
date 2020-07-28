@@ -1,0 +1,45 @@
+
+header {
+	height: 140px;
+	background-color: #914e13;
+}
+
+h1, h4{
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+	color: #f0eee9;
+	margin: 0px;
+	padding-top: 24px;
+	font-size: 48px;
+	text-align:center;
+}
+main {
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+	color: #e3e1dc;
+	margin: 0px;
+	padding-top: 16px;
+	font-size: 22px;
+	text-align: center;
+}
+
+body {
+	background-color: #245;
+  margin: auto;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+p, li {
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1.5em;
+	margin-bottom: 0;
+   }
+ 
+
+
+	
+input {
+  color : #0e4af0f3;
+}
+
+  
